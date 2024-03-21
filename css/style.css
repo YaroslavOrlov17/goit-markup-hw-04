@@ -376,19 +376,14 @@ body {
 
 }
 
-
-
 .card-box {
     position: relative;
     overflow: hidden;
 }
 
-
-
 .card-item:hover .overlay {
 
     transform: translateY(0);
-
 }
 
 .card-item:hover {
