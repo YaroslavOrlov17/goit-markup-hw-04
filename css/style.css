@@ -380,10 +380,7 @@ body {
 
 .card-box {
     position: relative;
-    width: 360px;
-    height: 300;
     overflow: hidden;
-    transition: transform 1s ease;
 }
 
 
